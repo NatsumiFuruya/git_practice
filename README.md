@@ -13,3 +13,7 @@ MySQL 5.7
 マージ用サンプル追加
 
 issue/bのテスト
+
+issue/cのテスト
+
+issue/dのテスト
